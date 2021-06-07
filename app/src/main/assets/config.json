@@ -1,0 +1,32 @@
+{
+  "env_name": "dev",
+  "rd_env": {
+    "version": "1",
+    "asr_url": "https://audiotest.baidu.com/v2",
+    "dcs_curl": "audiolctest.baidu.com",
+    "offline_event_url": "https://audiotest.baidu.com/event"
+    "asr_pid": -903,
+    "asr_appkey": "com.baidu.test"
+  },
+  "qa_env_177": {
+    "version": "1",
+    "asr_url": "https://audiotest.baidu.com/v2",
+    "dcs_curl": "audiolctest.baidu.com",
+    "offline_event_url": "https://audiotest.baidu.com/event",
+    "asr_pid": -813,
+    "asr_appkey": "com.baidu.iov.dcs.test",
+    "cantonese_asr_pid": -815,
+    "cantonese_asr_appkey": "com.baidu.iov.dcs.test"
+  },
+  "product_env": {
+    "comment": "备注：线上环境。asr_pid 普通话识别环境，cantonese_asr_pid 粤语识别环境，",
+    "version": "1",
+    "asr_url": "https://vse.baidu.com/v2",
+    "dcs_curl": "audiolc.baidu.com",
+    "offline_event_url": "https://vse.baidu.com/event",
+    "asr_pid": 1150,
+    "asr_appkey": "com.baidu.che.master",
+    "cantonese_asr_pid": 1152,
+    "cantonese_asr_appkey": "com.baidu.che.yue"
+  }
+}
