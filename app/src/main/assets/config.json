@@ -1,14 +1,16 @@
 {
-  "env_name": "dev",
+  "env_name": "qa_env_177",
   "rd_env": {
+    "comment": "备注：rd环境",
     "version": "1",
     "asr_url": "https://audiotest.baidu.com/v2",
     "dcs_curl": "audiolctest.baidu.com",
-    "offline_event_url": "https://audiotest.baidu.com/event"
+    "offline_event_url": "https://audiotest.baidu.com/event",
     "asr_pid": -903,
     "asr_appkey": "com.baidu.test"
   },
   "qa_env_177": {
+    "comment": "备注：177环境",
     "version": "1",
     "asr_url": "https://audiotest.baidu.com/v2",
     "dcs_curl": "audiolctest.baidu.com",

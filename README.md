@@ -1,5 +1,7 @@
 # KtScript
-
+    使用 kt 代替 gradle 的示例
+    
+    
 # 参考资料
 https://blog.csdn.net/vitaviva/article/details/104707736
 

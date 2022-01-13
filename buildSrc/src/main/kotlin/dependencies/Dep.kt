@@ -1,3 +1,4 @@
+@file:JvmName ("Dep")
 package dependencies
 
 object Dep {
